@@ -50,3 +50,8 @@ Integration with IoT Smart Bins for automatic segregation.
 Expansion to corporates, housing societies, and smart cities.
 
 Collaboration with government (Swachh Bharat 2.0) to scale segregation education.
+
+ppt: https://drive.google.com/file/d/1YPow_JJFqQ8fcJ4zIzvEGZCRsZOTg8B2/view?usp=sharing
+video: https://drive.google.com/file/d/1oohmmYBQqJXhwDFbyh_xqs3NCYNS5Qnn/view?usp=sharing
+Trained image classification ML model : https://teachablemachine.withgoogle.com/models/oakd1Hbcp/ and https://colab.research.google.com/drive/1cQEV8dJz8nnIP0-hzBDaeYUeAd2jSRqE?usp=sharing
+
